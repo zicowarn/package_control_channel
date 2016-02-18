@@ -1657,5 +1657,15 @@
 				}
 			]
 		}
+		{
+			"name": "G-CodeHint",
+			"details": "https://github.com/zicowarn/G-CodeHint",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "release"
+				}
+			]
+		}
 	]
 }
